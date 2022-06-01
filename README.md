@@ -9,4 +9,4 @@ Step2: Import top-view of image
 Put image into the canvas and the trajectory will be visualized on it.
 
 Extra: Grid count
-For heatmap drawing, we provide countGrid function. It will export as csv file.
+For heatmap drawing, we provide gridCount() function. You can adjust the grid size and the result will be export as a csv file.
